@@ -1,0 +1,4 @@
+confluent-kafka
+pyyaml
+tzlocal
+faker
